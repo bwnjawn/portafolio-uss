@@ -1,0 +1,6 @@
+[tool.ruff]
+line-length = 120 # limite de caracteres
+
+[tool.ruff.format]
+quote-style = "double"  #Para tener comillas dobles.
+indent-style = "space"  # Cambia los tabs por espacios.

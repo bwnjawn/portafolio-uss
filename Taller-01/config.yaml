@@ -1,0 +1,4 @@
+lenguaje: [Python]
+linter: [Ruff]
+formatter: [Ruff]
+archivo_configuracion: [pyproject.toml]
