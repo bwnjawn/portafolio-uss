@@ -1,0 +1,26 @@
+# Entornos virtuales (el más importante para no subir basura pesada)
+.venv/
+venv/
+env/
+bin/
+lib/
+include/
+
+# Caché de Python
+__pycache__/
+__pycache__
+*__pycache__
+*.pyc
+*.pyo
+*.pyd
+
+# Configuración de editores (VS Code, PyCharm)
+.vscode/
+.idea/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Docker (opcional, si no quieres subir logs)
+*.log
