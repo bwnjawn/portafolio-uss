@@ -1,0 +1,21 @@
+# Entornos virtuales (creados por uv o python)
+.venv/
+venv/
+env/
+
+# Caché compilada de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Variables de entorno (buenas prácticas de seguridad)
+.env
+
+# Archivos ocultos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Carpetas de configuración de editores de código (VSCode, PyCharm, etc.)
+.vscode/
+.idea/
